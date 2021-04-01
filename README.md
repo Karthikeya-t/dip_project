@@ -1,4 +1,5 @@
 # dip_project
 
 output
-![ezgif.com-gif-maker.gif]
+
+![](ezgif.com-gif-maker.gif)
