@@ -1,5 +1,8 @@
 # dip_project
 
-output
+# streamlit link
+https://share.streamlit.io/karthikeya-t/dip_project/main/demo.py
+
+# output
 
 ![](ezgif.com-gif-maker.gif)
