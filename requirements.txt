@@ -91,7 +91,6 @@ widgetsnbextension==3.5.1
 wincertstore==0.2
 zipp==3.4.1
 
-opencv-contrib-python==3.3.0.9
-#libXext libSM libXrender
+libglib2.0-0:i386
 
 
